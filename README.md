@@ -24,7 +24,7 @@ Welcome to the Basic Chess Game in C++! This project is a simplified implementat
 8. Enjoy and have fun!
 
 🛠️ Technologies Used:
-- C++ (Standard C++ without external libraries)
+- C++ (Standard C++)
 
 🤝 Contributing:
 Contributions are welcome! If you find any issues or have improvements in mind, please create a pull request or open an issue.
